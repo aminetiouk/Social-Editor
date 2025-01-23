@@ -139,3 +139,54 @@ body {
   font-size: .7rem;
   white-space: nowrap;
 }
+
+/* PANEL */
+.panel {
+  width: 350px;
+  background-color: #2B363B;
+  padding: 15px 31px;
+}
+
+.panel__top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: rgba(255, 255, 255, .8);
+  padding-bottom: 12px;
+  border-bottom: 1px solid #415a77;
+}
+
+.first-heading {
+  font-size: 18px;
+  font-weight: 400;
+}
+
+.panel__collapse-icon {
+  color: #6B7276;
+  cursor: pointer;
+}
+
+.panel__images {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 25px 0;
+  gap: 8px;
+}
+
+.panel__img {
+  width: 140px;
+  height: 140px;
+  object-fit: cover;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.panel__btn {
+  width: 140px;
+  height: 140px;
+  border-radius: 7px;
+  background-color: #333e44;
+  cursor: pointer;
+}
+
+
