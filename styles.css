@@ -189,4 +189,46 @@ body {
   cursor: pointer;
 }
 
+/* MAIN */
 
+.main {
+  background-color: #EDF1F3;
+  flex: 1;
+}
+
+/* INFO BAR */
+.info-bar {
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid #D6DDE1;
+  padding: 0 30px;
+}
+
+.breadcrumbs {
+  text-transform: uppercase;
+  letter-spacing: .5px;
+  font-size: 12px;
+}
+
+.breadcrumbs__link {
+  color: #A6ADB1;
+  text-decoration: none;
+}
+
+.breadcrumbs__icon {
+  color: #A6ADB1;
+  margin: 0 14px;
+}
+
+.info-bar__button {
+  background: linear-gradient(to right, #18A0BE, #622DB9);
+  color: #fff;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: 11px;
+  padding: 8px 20px;
+  border-radius: 400px;
+  cursor: pointer;
+}
