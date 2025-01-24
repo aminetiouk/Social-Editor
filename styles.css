@@ -272,3 +272,33 @@ body {
   transform: translate(-50%, -50%);
 }
 
+.tools {
+  height: 57.5vh;
+  display: flex;
+  flex-direction: column;
+  row-gap: 5px;
+}
+
+.tool {
+  background-color: #E1E6E9;
+  height: 44px;
+  width: 44px;
+  border-radius: 8px;
+  cursor: pointer;
+  color: #404446;
+}
+
+.tool--active {
+  background-color: #2B363B;
+  color: #fff;
+}
+
+.tool:hover,
+.tool:focus {
+    background-color: #2B363B;
+    color: #fff;
+}
+
+.tool:last-child {
+  margin-top: auto;
+}
