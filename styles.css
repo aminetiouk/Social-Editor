@@ -232,3 +232,15 @@ body {
   border-radius: 400px;
   cursor: pointer;
 }
+
+/* ARTBOARD */
+
+.artboard {
+  display: flex;
+  justify-content: center;
+  height: calc(100vh - 105px);
+  align-items: center;
+  column-gap: 20px;
+}
+
+
