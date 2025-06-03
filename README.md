@@ -92,5 +92,5 @@ Distributed under the MIT License. See the [LICENSE](/LICENSE) file for more inf
 
 ## 📧 Contact
 
-* Email - [@aminetiouk](mailto:your.email@example.com)
+* Email - [@aminetiouk](tiouk.amine@gmail.com)
 * Project Link - [@social-editor](https://github.com/aminetiouk/Social-Editor)
