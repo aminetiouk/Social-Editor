@@ -15,7 +15,6 @@ A user-friendly web-based social media content editor designed to help you creat
 * [🖼️ Screenshot](#️-screenshot)
 * [🛠️ Technologies Used](#️-technologies-used)
 * [⚙️ Installation](#️-installation)
-* [📂 Project Structure](#-project-structure)
 * [🤝 Contributing](#-contributing)
 * [📄 License](#-license)
 * [📧 Contact](#-contact)
